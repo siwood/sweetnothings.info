@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAKA,IAAK;EACH,gBAAgB,EANG,SAAS;EAO5B,WAAW,EANA,qBAAqB;;AASlC,YAAa;EACX,UAAU,EAAE,GAAG;EACf,UAAU,EAAE,MAAM",
+"sources": ["theme/skin.scss"],
+"names": [],
+"file": "skin.css"
+}
