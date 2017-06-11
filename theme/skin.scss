@@ -1,11 +1,16 @@
 $primary-background: #fff;
 $font-stack: 'Kabel Black', cursive;
 
+@font-face {
+	font-family: Kabel;
+	src: url("fonts/Kabel-Black.ttf") format("opentype");
+}
+
 
 
 body {
   background-color: $primary-background;
-  font-family: $font-stack;
+  font-family: Kabel;
 }
 
 .container {

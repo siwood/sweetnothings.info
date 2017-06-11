@@ -1,6 +1,9 @@
+@font-face {
+  font-family: Kabel;
+  src: url("fonts/Kabel-Black.ttf") format("opentype"); }
 body {
   background-color: #fff;
-  font-family: "Kabel Black", cursive; }
+  font-family: Kabel; }
 
 .container {
   padding-left: 30px;
