@@ -1,6 +1,10 @@
 body {
   background-color: #fff;
-  font-family: "Sigmar One", cursive; }
+  font-family: "Kabel Black", cursive; }
+
+.container {
+  padding-left: 30px;
+  padding-right: 30px; }
 
 .logo {
   width: 70%;
