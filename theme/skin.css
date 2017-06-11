@@ -1,6 +1,13 @@
 body {
-  background-color: lightpink;
+  background-color: #fff;
   font-family: "Sigmar One", cursive; }
+
+.logo {
+  width: 70%;
+  height: auto;
+  margin: auto; }
+  .logo img {
+    width: 100%; }
 
 .splash-text {
   margin-top: 13%;
